@@ -161,7 +161,7 @@ petalo4(12.14)
 
 go(-220, -350)
 t.color("red")
-t.write("TE QUIERO CAROLINA", font=("Arial", 12, "bold"))
+t.write("TE QUIERO CAROLINA", font=("Arial", 10, "bold"))
 
 
 t.hideturtle()
