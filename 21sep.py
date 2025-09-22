@@ -159,7 +159,7 @@ petalo3(12.14)
 go(-148, 278)
 petalo4(12.14)
 
-go(-200, -325)  # Ajusta la posición según tu dibujo
+go(-220, -350)
 t.color("red")
 t.write("TE QUIERO CAROLINA", font=("Arial", 24, "bold"))
 
